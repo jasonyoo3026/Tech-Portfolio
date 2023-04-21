@@ -2,13 +2,17 @@
 
 ## Where to find
 
-* The URL of deployed applicaion: 
-
-
+The URL of published portfolio : https://jasonyoo3026.github.io/Tech-Portfolio/
 
 ## Introduction
 
 This project was to create a portfolio using new React skills, which will help set you apart from other developers whose portfolios don’t use the latest technologies. 
+
+## Mock up
+
+This is the main page when the user first links to the portfolio.
+
+![This is the about me page which is the default route](./src/Assets/demo.png)
 
 ## Acceptance Criteria
 
