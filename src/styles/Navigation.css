@@ -1,0 +1,21 @@
+/* Navbar styling */
+/* .navbarCustom {
+  background-color: #101820 !important;
+  height: 70px;
+  align-items: center; 
+} */
+  
+/* .navbarNav {
+  font-size: 60px;
+  margin-left: auto;
+  margin-right: auto;
+} */
+
+/* 
+.active {
+  color: #C9ADA7 !important;
+} */
+
+.nav-link-large {
+  font-size: 1.5rem;
+}
